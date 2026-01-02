@@ -1,0 +1,1068 @@
+The Scam Department was created to protect users from known Roblox scams.
+@ScamGuard is a bot that automates scam detection and education.
+There are four major scam types: Fake Robux, Account Stealers, Game Teleporters, and Trust Trades.
+
+📌 Scam Info & Rules
+Welcome to the Scam Infraction Guidelines channel. We aim to maintain a fair and transparent operation and understand that many misconceptions exist that could avoid wrongful bans. This channel serves to help you understand what a scam is, specific terms related, and the punishment ranges for each infraction.
+
+⚠️ Therefore, just because something doesn't work out does NOT mean it's a scam! Be professional in your communications.
+📌 Scam Info & Rules
+We are a community dedicated to providing a safe and positive space for developers worldwide. Our dedicated staff team is always here to assist you, no matter the situation. In this guide, we'll discuss essential tips for scam prevention and how to stay safe while navigating our server.
+
+Don't worry! Our skilled @Scam Investigator are here to help. While we can't assure compensation, rest assured that if the suspect is found guilty, they will face prompt consequences.
+
+You can open a Scam Ticket by sending a direct message to @RoDevs ModMail with any message. This will trigger the prompt. If you encounter any issues, please reach out to your local @Head Scam Investigator so we can resolve it promptly.
+Image
+Section #1: 🚫 What counts as scamming?
+Before creating a Scam Ticket, please ensure the accused suspect violated a scam rule to avoid wasting your time and our @Scam Investigator time!
+
+Scam Rule #1: Ghosting
+Definition: Leaving a deal unfulfilled or unresponded to after payment/files have been sent for 48+ hours.
+
+The punishment for this is a permanent ban, and to be unbanned, you must either repay the victim or return the files to them.
+
+Scam Rule #2: Timewasting
+Definition: Engaging in deals with no intent to complete them (e.g, trolling, frequent cancellations, wasting others’ time intentionally).
+
+The punishment for this rule is the following: 1st: Temporary Ban 14d → 2nd: Permanent Ban (Appealable)
+
+Scam Rule #3: Using False Work In Your Work
+Definition: Faking reviews, using edited portfolios, claiming work that's not yours.
+
+The punishment for this rule is the following: 1st: Temporary Ban (30d–60d) → 2nd: Permanent Ban
+
+Scam Rule #4: Not Sending Payment
+Definition: Not sending the agreed-upon payment after work is done.
+
+The punishment for this rule is the following: Permanent Ban | To be unbanned, you must refund the victim.
+
+Scam Rule #5: Changing Terms Mid-Deal
+Definition: After payment is received, not delivering the service/product is not delivered as promised.
+
+The punishment for this rule is the following: Permanent Ban | Appealable
+
+Scam Rule #6: Impersonation
+Definition: Pretending to be someone else to gain access to deals, gigs, to build trust, etc.
+
+The punishment for this rule is the following: 1st : Temporary Ban (15d-30d) → 2nd : Temporary Ban 30d → 3rd Permanent Ban | Appealable
+
+Scam Rule #7: Leaking/Stealing
+Definition: Distributing or using files/assets not owned by you or licensed by you for distribution.
+
+The punishment for this rule is the following: 1st : Temporary Ban 60d → 2nd : Permanent Ban
+🧠 Common Terms Explained
+• Ghosting: Ceasing all means of communication in the middle of a deal, especially after you've been paid or received files.
+
+• Time-wasting: Accepting deals with no intention of going through with them (vanishing, rescheduling constantly, trolling creators, etc.)
+
+• Miscommunication: If you truly messed up or didn't understand the terms, let us know. Not all issues are scams. We appreciate communication and fairness.
+
+• Scope: The agreed-upon details of a project, including deliverables, deadlines, and payment terms.
+​
+• Deadline: The agreed-upon time frame for completing a project or transaction. ​
+
+• Mutual Consent: Agreement between all parties involved before making changes to terms or scope. ​
+
+• Evidence of Communication: Proof of discussions, agreements, or transactions, such as screenshots or email records. ​
+🫂 Appeals & Disputes
+If you've been banned and believe it to be in error, you're welcome to appeal via a staff ticket. We aim to preserve the quality of our community, not punish honest mistakes.
+Section #2 - Scam Prevention Tips
+Scam Prevention Tip #1: Always be aware of who you’re working with.
+• You should always perform background checks on the individual you’re working with to ensure you know what you’re getting into and whether they are trusted in the development community. A great way to verify who you're working with is by using our /background check command. This command will display the user's Mod-logs from various servers using HiddenDevs' Scam logs, which include reports from multiple communities.
+
+Scam Prevention Tip #2: Always use common sense before starting a commission with someone.
+• If something seems too good to be true, it probably is. When buying an asset from someone, always ask for additional information, such as why they are selling it. This may seem trivial, but you can learn a lot by asking even the simplest questions.
+
+Scam Prevention Tip #3: Verify the user’s identity
+• You can't trust anyone at face value nowadays, so make sure to thoroughly check out the user’s Roblox account, social media profiles, and other relevant details to confirm they are who they claim to be.
+
+Scam Prevention Tip #4: Verify the assets/products
+• Ensure the assets you are purchasing aren't stolen or plagiarized. You can do this by running reverse image searches. Use trusted reverse image search websites and upload images of the assets. This process will scan the internet for similar models that look almost identical. Didn't find anything? Try another website, as different sites may yield different results. You can also utilize other resources, such as the Roblox Toolbox, to assist you. We always recommend you do research on assets that are being sold.
+
+Scam Prevention Tip #5: Communication
+• It's important that both parties are on the same page and know the exact details of the commission. A few things you should do before starting a commission or hiring somebody are:
+
+Confirm the exact payment
+Confirm exactly what the user will be doing in detail
+Discuss restrictions, such as when the product needs to be done.
+Provide reference photos/videos to ensure both parties are on the same page.
+Section #2 - Scam Prevention Tips
+Section #3 - Middleman Service
+RoDevs offers a middleman service available to everyone. Only the most trusted staff members handle these transactions: @Senior VC Moderator, @Senior Scam Investigator, @Senior Post Approver and @Helper!
+
+How it works
+A Senior Staff Member or Helper will be assigned to your request. They’ll create a group chat between you and the other party, monitor the transaction, and assist with the payment process to help prevent any scams during the transaction.
+
+How do I request a Middleman?
+To request a middleman, please DM @RoDevs ModMail and select "Middleman". Then, follow the prompts provided.
+Section #3 - Middleman Service
+Section #4 - Additional Information
+What should I do if someone scammed me via forms of US Dollars (including digital payment methods) or Robux?
+We recommend submitting a Scam Ticket so our team can investigate and take appropriate action. In many cases, the other party will cooperate and issue a refund once confronted.
+
+If that doesn't lead to a resolution, you can escalate the issue by filing a dispute through PayPal or the payment service you used. Be sure to include detailed explanations and as much evidence as possible; clear documentation can make a big difference.
+
+If the scam involved Robux, we also advise contacting Roblox Support directly.
+
+What should I do if I'm accused of scamming?
+Our Scam Investigators will look at all the facts and review both sides. If you aren't found guilty, then you have nothing to worry about. Don't escalate the situation or attempt to tamper with evidence, and be honest! We believe honesty is the best policy and if you are at fault then being honest will grant you leniency with your punishment.
+
+Please note that this is all voluntary work and our @Scam Investigator aren’t paid for what they do.
+Please ensure you don’t make the situation more difficult for the person handling it. Remember that we aren’t liable for any money, Robux, or other currencies lost during commissions or transactions. Our goal is to help avoid these situations, and if you don’t use the services we provide for that purpose, it’s entirely your responsibility.
+
+Public Scam Logs
+
+If you have any questions or concerns, contact a @Scam Investigator+ or open a server support ticket asking for assistance. Thank you, and have a nice day!
+
+The head scam Investigator or HSI is Mackdaddyron.
+
+The head admin is asher
+Server Manager is yankue
+
+RoDevs
+Handbook for The Scam Investigation Department
+
+a……………Hon……..
+
+Created by MackDaddyRon 
+
+Possession of this document comes with the strict responsibility to maintain its confidentiality. Any individual found leaking or sharing the contents of this document will be permanently blacklisted from Rodevs.
+
+This document contains essential information crucial to your development as a future Scam Investigator. Please take the time to thoroughly review and understand all the material provided.
+Have a question?
+ Do not hesitate to ask for clarification — asking questions is encouraged and demonstrates a commitment to learning. You may reach out to a fellow Scam Investigator or a Senior Scam Investigator/HSI for assistance.
+Additional Resources:
+ Formats, Mistakes & Strikes, and other relevant materials can be found in the resources channel.
+Important Protocols:
+ Before handling any ticket, you must obtain permission from your Trainer. Additionally, you are not authorized to issue bans; please request a Senior Scam Investigator to handle any banning actions.
+
+aaaaaaaaaaaaaa
+Table of Contents  
+Introduction
+
+
+Roles and Responsibilities
+
+
+Chain of Command
+
+
+Getting Started
+
+
+Explaining Tickets/Cases
+
+Types of Cases
+
+
+Investigation Basics
+
+Logging
+
+Punishments
+
+
+Reporting & Escalation
+
+
+Mistakes, Strikes, & Discipline
+
+
+Resources and Formats
+
+
+Frequently Asked Questions (FAQ)
+
+
+Acknowledgment Page
+
+Introduction
+
+If you are reading this for the first time, congratulations! You have made it past the first stage of becoming a Scam Investigator, joining the ranks of a select group. This is a role that many aspire to but few achieve. Your presence here means you’ve shown the potential we’re looking for. This handbook will guide you through what’s expected, how to succeed, and how to grow within the department.
+I highly recommend asking as many questions as possible as you read through this handbook. Your seniors are here to guide and mentor you. Their goal is to help shape you into the best Scam Investigator you can be.
+
+
+Roles and Responsibilities
+
+In the Scam Investigation Department, we operate with four distinct roles. Each position carries specific responsibilities and plays a vital part in fulfilling our mission: identifying scammers, reducing scam incidents, and maintaining the integrity of the RoDevs community.
+Trial Scam Investigator (TSI)
+The role of a TSI is to learn the department inside and out. This is a training position where members begin developing their investigative skills, gaining hands on experience, and learning things that will prepare them for promotion to full Scam Investigator. Asking questions, listening to seniors, and actively participating in training are essential at this stage.
+Scam Investigator (SI)
+SI’s are the primary case handlers of the department. Their responsibilities include investigating scam cases, reviewing ban appeals, and contributing directly to the department’s day to day operations. They also serve as role models in the community, setting a standard of professionalism and preparedness as they work toward becoming Senior Scam Investigators.
+Senior Scam Investigator (SSI)
+SSIs hold the second-highest rank in the department and are among the most knowledgeable team members. They are part of the SI Management Team and assist the HSI with high level decisions that affect the entire department. SSIs are responsible for overseeing Scam Investigators, training TSIs, managing disciplinary matters when needed, and handling cases. This role prepares them for potential promotion to Head Scam Investigator.
+Head Scam Investigator (HSI)
+The HSI is the highest ranking member of the Scam Investigation Department and holds the most trusted leadership position within the team. Selection for this role is highly competitive and based on experience, leadership, and reliability. The HSI is responsible for managing the entire department, overseeing all disciplinary actions, and reporting directly to the Head Admin and Server Manager. They also collaborate with other department heads to ensure smooth server wide operations and to propose improvements for the SI team.
+
+Chain of Command
+In the Scam Investigation Department, we follow a strict chain of command. If you have a question, concern, or need guidance, you should not go directly to the Head Scam Investigator (HSI) unless necessary. Instead, you are expected to work your way up the chain, starting from the rank closest to your own.
+Before reaching out to higher ranking members, you must make an effort to ask at least one person from each rank, if available. If someone from a particular role is not accessible, you're allowed to skip to the next available rank.
+Following the chain of command shows respect for department structure and helps ensure smoother communication and management.
+The Chain of Command is as follows:
+➡️ Trial Scam Investigator (TSI)
+ ➡️ Scam Investigator (SI)
+ ➡️ Senior Scam Investigator (SSI)
+ ➡️ Head Scam Investigator (HSI)
+ ➡️ Head Admin / Server Manager (If needed)
+
+Getting Started
+
+Great job! By now, you should have a solid understanding of the Scam Investigation Department, its roles, and our overall mission. Now it's time to learn how the department operates on a day to day basis, specifically, how we handle scam tickets. Please note that before working on any ticket, you must first receive approval from your Trainer or an available Senior Scam Investigator (SSI). Always follow proper protocol to ensure quality and accountability in every case you take on.
+
+
+Explaining Tickets/Cases
+
+Great! If you’ve made it this far, that means you’re ready to take on your first ticket. Before you proceed, remember: if you are a Trial Scam Investigator (TSI), you must request permission from a Senior Scam Investigator (SSI) before handling any ticket.
+The ticket and case system in RoDevs is unique and unlike most others. In this section of the handbook, we’ll break down each part of a ticket to help you fully understand how it works, from what each button does to the meaning behind each section. By the end of this, you’ll know exactly what to look for and how to approach every case with confidence.
+
+In the Scam Tickets category, you’ll find all active tickets available for investigation. As a general rule, you may only take on up to five tickets at a time. If you wish to handle more than that, you must first receive approval from a Senior Scam Investigator (SSI). This limit helps ensure quality and prevents investigators from becoming overwhelmed or neglecting ongoing cases.
+
+
+
+When you claim a ticket, it will display your username along with the region and the ticket number. The region is indicated by a two-letter code placed before your name. The codes are as follows:
+US — United States of America
+
+
+JP — Japan
+
+
+IN — India
+
+
+EU — Europe
+
+
+ZA — South Africa
+
+
+BR — Brazil
+
+
+These region tags are designed to help you quickly determine the time zone of the user who submitted the ticket. Understanding their time zone will allow you to communicate more effectively and manage the case more efficiently.
+
+
+
+
+At the top of every ticket, you’ll see several key pieces of information presented in order from top to bottom:
+The user who created the ticket
+
+
+The message they submitted (their initial report)
+
+
+The target, which refers to the accused scammer
+
+
+The target’s region/time zone
+
+
+The type of scam that was reported
+
+
+Before doing anything else, you should always read through this information carefully. It sets the context for the case and ensures you understand the situation before proceeding with the investigation.
+
+
+
+
+As you read through the ticket, you may notice that the bot provides a helpful tip: if you need to communicate with other staff members, such as a Senior Scam Investigator, within the ticket, you should use the prefix $$  before your message. This ensures that your message is hidden from the victim and the accused (if they have already been added), allowing for private staff communication.
+Beneath the ticket information, you will find six important buttons that help manage the case:
+Claim Ticket: This button is used to claim the ticket as your own. Once you claim it, the ticket is removed from the available list for all TSIs and SIs, though it remains visible to SSIs and above.
+
+
+Convert Ticket: Occasionally, tickets are submitted to the wrong department. This button allows you to transfer a ticket to the appropriate department if needed.
+
+
+Delete Ticket: This button will permanently delete the ticket. Use it with caution and only when appropriate.
+
+
+Add Other User: When investigating, you’ll often need to speak directly with the accused. This button allows you to add them to the ticket so you can question them.
+
+
+Call Department Head: If a situation requires the attention of the department head, this button alerts them to the ticket.
+
+
+Remove Other User: If a user was added to the ticket and you no longer need them present, this button allows you to remove them from the conversation.
+
+
+Lastly, each ticket includes a scam description, where the victim explains the situation and details what happened with the accused. This section is essential to read before taking any action, as it helps you fully understand the context of the case.
+Below the scam description, you’ll find the evidence links. In RoDevs, we require video evidence for investigations, as images can be easily manipulated or faked. However, when logging to HD, images uploaded to Imgur can be used to supplement the video evidence, but they can not be relied upon as the sole proof during investigations. Please note that streamable links can not be logged to HD, since they can be deleted and may not provide lasting access to the evidence needed for the case.
+
+Types of Cases
+In the department, we have 5 overarching scam categories which are the following: Changing the original deal, Time-wasting, Scamming, Using stolen/AI-generated work in posts & Selling stolen assets, leaked assets, leaked games, AI-generated assets; however, there are outliers which is why a detailed list of scams are below for you to look at:
+👇
+
+Agreement Scams 
+Agreement Scams
+General category for scams related to agreements.
+Time-wasting: Failure to pay after work is completed. 
+Failure to pay the developer after work is completed.
+Time-wasting: Failure to complete work in commission. 
+Failure to complete agreed-upon work.
+Changing the original deal: Changing the original deal
+Altering the original commission deal (e.g., terms, payment).
+Ghosting: Blocking/Ghosting a partner
+Blocking or refusing to respond to a partner after the commission was kick-started.
+Time-wasting: Substandard Work Delivery
+Delivering subpar work on a commission.
+Scamming: Removal from Revenue Payout
+Unjustified removal from agreed-upon revenue sharing.
+Selling stolen assets, leaked assets, leaked games, AI-generated assets: Selling Leaked/AI Assets/Games
+Selling stolen, compromised, or AI-generated assets (successful).
+HM: Failure to Respond to Ticket.
+Refusal to respond to a ticket without providing any argument to defend themselves.
+
+Non-Agreement Scams
+Non-Agreement Scams
+General category for scams not related to agreements.
+Sending Phishing/Malicious Links
+Distributing harmful links to steal information or install malware.
+Using stolen/AI-generated work in posts: Using Stolen/AI-generated Work in Posts/Portfolios
+Claiming ownership of stolen or AI-generated content.
+Fake Giveaways & Invite Scams
+Asking for you to add people to their server for a prize (Nitro, Robux, etc.), hosting fake giveaways with the intent to trick people. 
+Selling stolen assets, leaked assets, leaked games, AI-generated assets: Selling Stolen/Leaked/AI Assets/Games.
+Attempting to distribute stolen or AI-generated content (not yet sold).
+Impersonating a Developer
+Pretending to be another individual to deceive others.
+
+
+Investigation Basics
+Please maintain professionalism and neutrality in all scam cases! 
+RoDevs Bot Commands for Background Checks
+`/staff alts`: Perform all background checks on any discovered alt accounts.
+`/background-check`
+`/mod logs`
+`/roblox whois`
+
+Evidence Requirement: Main evidence must be in video format.
+
+If the victim can’t upload a video of the DMs due to Discord’s upload limit, request for the video to be uploaded to an external website such as YouTube, Google Drive or Imgur then sent.
+Agreement Scams:
+
+Information Gathering:
+
+Discord ID of the accused scammer.
+Evidence of the original agreement.
+Payment transfer records.
+Documentation of changes to the original deal.
+Posts made in the server relevant to the agreement.
+Any completed work (blend files, rblx files, etc.).
+Evidence of the alleged scam.
+Video of the entire DMs between the accused scammer and victim.
+
+
+If the victim doesn’t provide evidence even after several reminders then drop the scam. 
+Make sure to get a video of the entire DMs whenever you take a scam and verify it has (evidence of the original deal and evidence of the scam in entireity, if you’re missing context then request for more along the lines of the information gathering.
+
+Background Checking:
+
+Message History: Examine the full server message history.
+Reputation: Check the user's reputation in other developer communities.
+Check Scam Logs: Search the HiddenDevs public scam logs and RIA logs for prior scam logs.
+Running BloxLink Lookup: Use `/getinfo <DiscordUserID>` in BloxLink to retrieve linked Roblox accounts.
+Background Check Roblox Account: Review the account's age, groups, reputation, and trade history. Use Rolimons if necessary.
+Analyze Portfolio: Reverse-image-search claimed assets or use AI-detection tools to identify stolen or AI-generated work.
+Inspect Mod-Logs & Notes: Check moderation logs and notes for previous incidents.
+
+
+Investigation Tactics:
+Communication with Victim:
+
+Discuss how the victim wants the situation handled: lenient(open to all compromises), moderate(open to compromise up to a specific point), or hardline(no compromise on payment) on payment.
+Maintain private communication with the victim during the investigation.
+
+Communication with Accused Scammer:
+
+Add the accused scammer to the ticket and provide a 12-24 hour response deadline.
+Request video evidence to support their explanation.
+Evaluate common explanations:
+Hospital visit: Lower punishment consideration.
+School: Consider the time wasted and lower punishment if it’s like exam period, May-June.
+Not enough time: Determine an acceptable extension if the victim wants.
+Vacation
+Not enough money: Set a payment deadline or estimate.
+Forgot about it
+Work was too hard: Negotiate a partial refund or full refund.
+Distrust of the other party: Suggest a middleman.
+Work quality issues: Evaluate work against provided references.
+No explanation: Apply appropriate penalties.
+
+Before You Start:
+
+Double Check: Read the ticket and the evidence twice. Make sure you understand everything.
+Knows vs. Don’t Knows: Make a quick list of what's confirmed (like payment dates) and what’s missing (like the final files), evidence backing claims,  and make sure to question both sides to understand the unknown to get full context into the scam.
+Questions Ready: Have a few open-ended questions ready to go. This helps you guide the conversation.
+
+During the Investigation:
+
+Build Trust:
+Use phrases that show you're listening.
+Ask questions without blaming ("What were your thoughts when you saw the work?").
+3.   Ask Effective Questions:
+Incorporate open-ended questions to uncover the reasoning behind actions. For example, "What led you to agree to that deal?" or "Can you describe your thought process when you decided to proceed?" instead of "Why did you ghost him?".
+Avoid judgmental language or phrasing to encourage complete information disclosure, judgemental language would risk alienating the scammer and compromise possible resolutions.
+Frame questions neutrally. For instance, "What were your initial thoughts when they requested your password?" instead of "Weren't you suspicious when they asked for your password?".
+Explore different perspectives without appearing biased.
+Ensure questioning does not favor the scammer's viewpoint or unduly scrutinize the victim.
+Focus on understanding all facets of the situation from a neutral standpoint.
+Focus on open-ended inquiries about motivations and maintain a neutral, non-judgmental stance to foster information sharing.
+Gain a deeper understanding of the dynamics at play in scam investigations.
+For all screenshots sent out of context, request context behind them and the other side’s opinion, and request videos or extra evidence if needed.
+Understand everything to work out a resolution or make a coherent decision.
+Ensure you gather enough information from both sides, including their opinions on each other’s evidence, to come to a fair resolution.
+Punish inconsistencies in arguments effectively by mentally lowering their credibility and debating them with the correct information. 
+Basically, probe both sides thoroughly to understand everything. 
+Verify Everything:
+Payment? Check PayPal and ask for a video of their inbox.
+File delivery? Ask for verification from the victim, Discord DMs proving it was sent, etc. 
+Background? Use BloxLink, HD/RIA logs, and check social media.
+Watch for Red Flags:
+Timeline doesn't match up (payment before creation).
+Vague language ("I think," "Maybe").
+Too many excuses ("My PC died").
+Structured Steps: Think of the steps: Add scammer to ticket, Hear Their Story, Wrap Up, anad Log. 
+Deal Time:
+Offer options like partial refunds or revisions.
+Give a clear "refund by X UTC or ban" deadline.
+If they don't comply, then punish them.
+Tell the victim the outcome and next steps (like how to get a refund).
+Log it in HD if there's a ban, or say "No evidence" if dropped.
+When logging:
+Summarize the ticket and what happened in-depth, explain key arguments, key defenses, debunks and decision and reasoning. 
+Keep It Fair:
+Ask "When/How" instead of "Why" to avoid sounding accusatory.
+Refer to the rules, not your personal feelings.
+Make sure every detail is backed up by at least two sources.
+Trust and Lies: If someone lies, trust them less moving forward and disprove their lie.
+Screenshots: When someone shows a screenshot, ask both sides for the full story behind it.
+Language: Don't use judgmental language. Ticket arguments can uncover more information, so try to understand both sides.
+
+Remember: Be prepared, build trust, ask good questions, check everything, and set clear deadlines to get resolutions.
+BASIC INVESTIGATION FRAMEWORK
+
+1. Failure to pay after work is completed.
+
+This constitutes a serious breach of the agreement.
+Investigate the reasons for non-payment thoroughly. This involves gathering all relevant information from both the developer and the client. Understand the client's perspective and the specific reasons they are withholding payment. Document all communication and any supporting evidence provided by either party.
+Assess the work quality meticulously against the originally provided specifications, detailed requirements, or agreed-upon references. Conduct a thorough evaluation to determine if the delivered work demonstrably fails to meet the established standards. If objective evidence indicates a significant deficiency or deviation from the agreed terms, payment may be justifiably withheld, either partially or fully, depending on the extent of the inadequacy. Ensure this assessment is impartial and based on clear, documented criteria.
+Evaluate any explanations provided by the client comprehensively, referencing established community guidelines, terms of service, and any prior agreements. Scrutinize the client's justifications for non-payment against the relevant rules and precedents. Determine if the reasons provided are valid and justifiable within the established framework.
+Attempt to negotiate a partial payment as a compromise if a full resolution, including full payment, is initially unattainable. Explore the possibility of reaching a mutually acceptable agreement where the developer receives a portion of the agreed-upon payment. This could be considered in situations where the work has some value but may not fully meet all original specifications or where mitigating circumstances exist. Document the negotiation process and any agreed-upon terms. 
+Consider offering the developer the opportunity to make revisions if the work is below expectations. However, the client is not obligated to request or accept revisions and may choose not to pay or request a refund.  The client generally doesn’t have to pay if the work is subpar in quality.
+Tip: Try to put yourself into the shoes of the developer and consider the payment given to gauge if the work is sufficient or not. 
+
+If the scammer is deemed guilty by your investigation then punish the scammer. The punishment should be proportionate to the severity and impact of the non-payment. The incident log should include a detailed account of the situation, all communication records, the assessment of work quality, the client's explanations, negotiation attempts, and the final decision to ban. This log serves as a reference for future disputes and helps maintain community standards.
+2. Failure to complete work in commission.
+
+This scenario represents a failure to fulfill the agreed-upon obligations within a commissioned project, potentially causing inconvenience and loss for the commissioning party.
+Request and thoroughly review the reasoning provided by the developer for the non-completion of the commissioned work. Understand the developer's perspective and the specific factors that prevented them from fulfilling their commitment. Gather all relevant information and supporting documentation.
+Exercise careful discretion based on the provided explanations and the established community punishment guide. Consider the validity and legitimacy of the reasons for non-completion in relation to the community's rules and expectations. Factors such as unforeseen personal emergencies, genuine technical difficulties, or a clear lack of effort or communication should be weighed differently.
+Prioritize finding a resolution to the commission that is fair to both parties. Explore options such as negotiating an extension with revised timelines, finding a replacement developer (with the original developer potentially obligated to contribute to the cost), or agreeing on a partial refund if some work was completed. Aim for a compromise that addresses the concerns of the commissioning party while acknowledging any extenuating circumstances faced by the developer.
+If no resolution is found then punish the scammer. 
+3. Changing the original deal of a commission (e.g., terms, payment).
+
+Unilateral changes to the agreed-upon terms of a commission undermine trust and can lead to disputes.
+Refer directly to the original agreement established between the involved parties. This agreement, serves as the definitive basis for resolving any discrepancies.
+Direct the client who unilaterally changed the terms to provide the agreed upon payment to the affected party to restore the original agreement. 
+Punish the scammer if they refuse to resolve the conflict by providing the required agreed upon payment(if it’s the client) and adhering to the original terms(both). The severity of the punishment should reflect the degree of the violation and the refusal to rectify the situation. Document all actions taken.
+4. Blocking or Refusal to respond to a partner in a commission.
+
+Lack of communication and blocking obstruct collaboration and can be indicative of an unwillingness to fulfill obligations.
+Inquire with the user who has blocked or refused to respond to their partner to understand the reasons for the lack of communication. Seek their explanation and any relevant context for their actions.
+Actively facilitate a resolution to the conflict by mediating between the involved parties. Encourage open communication and attempt to understand the underlying issues. Punish the accused user according to established guidelines if they do not have a legitimate and justifiable reason for their refusal to respond and their lack of cooperation is hindering the project or commission.
+5. Delivering subpar work in commission.
+The delivery of work that does not meet reasonable standards of quality can lead to dissatisfaction and disputes.
+Exercise careful and objective discretion when evaluating the quality of the delivered work, talk with other SIs about their opinions. Avoid subjective biases and focus on demonstrable shortcomings.
+Determine if the client provided specific references, detailed instructions, examples, or artistic inspiration prior to the commencement of the work. Clear communication of expectations and provision of reference materials sets a benchmark for quality.
+Thoroughly compare the delivered work against any provided references, instructions, or agreed-upon standards. Identify specific areas where the work falls short of the established expectations.
+If no specific references or detailed instructions were provided by the client, and the client's initial request was vague or open to interpretation, the client is generally obligated to provide the agreed-upon payment or can get a refund unless the delivered work is demonstrably and significantly below a reasonable standard of quality for the type of commission. In such cases, the burden of clearly communicating expectations largely rests with the client. However, developers are still expected to deliver work that demonstrates a reasonable level of skill and effort. Each situation should be evaluated on its own merits, considering the clarity of the initial agreement.
+Consider offering the developer the opportunity to make revisions if the work is below expectations. However, the client is not obligated to request or accept revisions and may choose not to pay or request a refund.  The client generally doesn’t have to pay if the work is subpar in quality.
+Tip: Try to put yourself into the shoes of the developer and consider the payment given to gauge if the work is sufficient or not. 
+6. Removal from revenue payout.
+Request and thoroughly review the detailed reasoning provided for the removal of the user from the revenue payout system. Understand the justifications cited for the removal.
+Carefully assess the provided reasoning and attempt to reinstate the affected party to the revenue payout if the justification for cancellation is deemed insufficient, unclear, or not strongly supported by evidence and community guidelines. Advocate for the affected user if the removal appears unwarranted or disproportionate to any potential infraction.
+Punish the party responsible for the removal if they refuse to reinstate the revenue payout without a valid and clearly substantiated reason. Ensure fairness and adherence to established policies in all revenue payout decisions.
+7. Selling leaked, compromised, non-resalable, or AI-generated assets or leaked games successfully.
+Be diligent in gathering proof. For stolen assets, try to identify the original marketplace or creator. For leaked assets or games, look for the asset on the leaked games resources and reverse search the asset/game. For AI-generated assets, use the same AI detection methods as mentioned before.
+
+ Secure links or files of the source material as evidence. When investigating the sale of leaked assets, prioritize identifying the original source by performing a reverse image search of the asset. If the asset is from a simulator, examine the Simulator Generator plugin in Roblox Studio. Look at the leaked game resources below for further clues regarding the asset's origin. For compromised assets, gather evidence indicating they are compromised, such as results from VirusTotal. Generally, if VirusTotal reports more than three flags, the asset is likely malware. Punish the seller accordingly.
+
+To identify the sale of AI-generated assets, request information about the asset's topology, creation timelines, and file names. Poor topology is often indicative of AI generation.
+
+Detecting AI-generated scripts requires careful examination of function and variable names, as ChatGPT tends to use specific naming conventions. Pay close attention to comments, looking for robotic, extensive commenting in unexpected areas of the script.
+
+Detecting AI-generated GFX is easy by using SightEngine or another AI Image Detector.
+
+Investigating the sale of non-resable assets can be done by asking for evidence that the model was stated to be non-resable before, either in posts or in DMs and proving knowledge beforehand. 
+
+Demanding Proof of Legitimate Ownership: When the accused is brought into the ticket, be very specific about the type of ownership proof required. This could include: purchase receipts, licenses, original creation files with timestamps, ownership of the original source. Simply claiming ownership is not sufficient.
+Upon confirmation of such activity, immediately facilitate a full refund for the affected buyer to mitigate their financial loss.  Implement a permanent ban on the user engaged or selling these prohibited assets if they refuse to provide the required refund.
+HM: Failure to respond to a support ticket without providing a reasonable argument or explanation.
+If a user fails to respond to a scam ticket within a designated timeframe (e.g., 24 hours) without providing a valid reason for their lack of communication, they will be subject to punishment that the evidence allows, depending on the severity and frequency of such occurrences. They can provide their side of the story in the ban appeal rather. 
+Non-Agreement Scams
+Information Gathering:
+
+Chcek Scam Logs: Search the HiddenDevs public scam logs and RIA logs for prior scam logs.
+Run RoDevs Bot Commands Lookup: Use the RoDevs background checking commands to check their background. 
+Background Check Roblox Account: Review the account's age, groups, reputation, and trade history. Use Rolimon's if necessary.
+Analyze Portfolio: Reverse-image-search claimed assets or use AI-detection tools to identify stolen or AI-generated work.
+Inspect Modlogs: check modlogs
+Server Search: Reverse search the user's ID or log number in main server and the staff server.
+
+
+BASIC INVESTIGATION FRAMEWORK
+Sending Phishing/Malicious Links:
+Transfer the ticket to the moderation department
+     2.  Having Stolen/AI-Generated Work in Posts or Portfolios:
+Comprehensive Evidence Gathering: Go beyond just a quick check. For suspected AI art, request a video recording of the user running the image through a reputable AI detection tool (like those from Hugging Face, SightEngine, etc.) and showing the results(or you can do this yourself, which is the more popular and better option). For suspected stolen art, perform thorough reverse image searches across multiple platforms (Google Images, TinEye, etc.). Look for exact matches and similar styles from known artists. Document the source with links and timestamps if possible.
+The Accused's Defense: When you bring the accused into the ticket, ask for evidence that the accused owns the alleged stolen work by asking for them to show that they own the account that allegedly has the source of the image, or another way. Be specific about what kind of proof you need. Acceptable proof includes, but isn't limited to: original project files (like .blend for Blender, .psd for Photoshop, etc.) with clear version history, screenshots of their software's activity history showing the creation process, documented ownership of the source material, and even progress sketches or early drafts if available.
+No Concrete Proof: If they cannot provide compelling and verifiable proof of ownership, then take action. 
+     3. Fake Giveaways and Invite Scams:
+Thorough Verification of the Claim: Don't just rely on the reporting user's word. Look for corroborating evidence. Were there public announcements of the giveaway? What were the promised rewards? Were multiple users affected? Check for videos or logs of the promises made.
+Facilitating a Fair Resolution: When you bring in the accused, give them a clear opportunity to respond and provide evidence of the giveaway's legitimacy or proof that the rewards were indeed distributed. Encourage them to directly communicate with the reporting user to find a resolution, like providing the promised item or an acceptable alternative.
+      4. Selling Stolen Assets, Leaked Assets, Leaked Games, or AI-Generated Assets (not sold yet):
+Be diligent in gathering proof. For stolen assets, try to identify the original marketplace or creator. For leaked assets or games, look for the asset on the leaked games resources and reverse search the asset/game. For AI-generated assets, use the same AI detection methods as mentioned before.
+ Secure links or files of the source material as evidence. When investigating the sale of leaked assets, prioritize identifying the original source by performing a reverse image search of the asset. If the asset is from a simulator, examine the Simulator Generator plugin in Roblox Studio. Look at the leaked game resources below for further clues regarding the asset's origin. For compromised assets, gather evidence indicating they are compromised, such as results from VirusTotal. Generally, if VirusTotal reports more than three flags, the asset is likely malware. Punish the seller accordingly.
+To identify the sale of AI-generated assets, request information about the asset's topology, creation timelines, and file names. Poor topology is often indicative of AI generation.
+Detecting AI-generated scripts requires careful examination of function and variable names, as ChatGPT tends to use specific naming conventions. Pay close attention to comments, looking for robotic, extensive commenting in unexpected areas of the script.
+Detecting AI-generated GFX is easy by using SightEngine or another AI Image Detector.
+Investigating the sale of non-resable assets can be done by asking for evidence that the model was stated to be non-resable before, either in posts or in DMs and proving knowledge beforehand. 
+Demanding Proof of Ownership: When the accused is brought into the ticket, be very specific about the type of ownership proof required. This could include: original creation files with timestamps, proof of creation for a commission, owns the original file and make sure you ask for dates.
+Consequences for Lack of Proof: If the user cannot provide legitimate proof of ownership, they should be punished. 
+      5. Impersonating a Developer:
+Focus on Verification, Not Confrontation: There's usually no need to directly involve the impersonator in the ticket. Your focus should be on confirming the impersonation.
+Logging: Log the impersonator's exact Discord username (including the userid), all relevant profile links (their profile page, any Roblox accounts), and irrefutable evidence of the impersonation. This evidence could include: direct comparison of their profile to the real developer's like very similar usernames, false claims of affiliation or work on specific projects, or even reports from the actual developer.
+Logging a Ticket:
+
+Evidence must be either a video or Imgur (highly recommended)!
+
+
+Images or screenshots are not accepted as evidence when first reviewing the case, however all members of the Scam Investigation Department are highly recommended to capture images from the video recording you are provided as evidence and create an Imgur album while uploading the scam to HiddenDevs.
+
+Evidence Naming Convention:
+
+Rename your video evidence file to:
+Scam Log [TICKET NUMBER]
+Replace [TICKET NUMBER] with the ticket assigned to your report (e.g., “Scam Log 12345”). This helps our team track logs more efficiently.
+
+Quick Rundown: Why Logs May Be Denied:
+
+Please review these common reasons before submitting evidence. If any of the following issues apply, your log will be rejected:
+
+No Proof of Scam: There’s insufficient evidence demonstrating that a scam occurred.
+Log Description Errors: The description is incomplete, inaccurate, or confusing.
+PII Included: Personal Identifiable Information (PII) is visible in your evidence (e.g., email addresses, legal names, banking details, money-transfer app IDs, etc.).
+NSFW Content: Any adult or inappropriate content in the evidence will cause denial.
+Unclear Evidence: Screenshots or videos that are blurry, cropped in a way that omits key details, or otherwise illegible.
+Expired Links: Links to evidence that have expired (e.g., Streamable, Discord link, etc.) will be denied.
+Restricted-Access Links: Links requiring logins or special permissions will not be accepted.
+
+---
+
+Blurring Guide & Upload Recommendations
+
+To protect everyone’s privacy and ensure your evidence remains accessible, please follow these steps:
+
+1. Blur All Sensitive Information
+
+   Names (real),
+   Email addresses,
+   PayPal or other payment-service usernames,
+    Physical addresses, phone numbers, credit-card numbers, or any other PII
+
+2. Choose a Reliable Hosting Platform
+
+YouTube (set the video to Unlisted),
+  Imgur (set the album to Hidden),
+  Google Drive (set link-sharing to Anyone with the link can view)
+  Vimeo
+
+3. Using YouTube’s Built-In Editor
+
+   YouTube’s video-editing tool makes it easy to blur sensitive details. Here’s a quick tutorial:
+
+     https://youtu.be/BUCQ3skYqyA?si=SLEG7Z7RZBYWwk8O
+
+---
+
+> Tip: If you log evidence on YouTube, double-check that the visibility is set to Unlisted, that way, only those with the link can view it. For Imgur, ensure the visibility is “Hidden,” and on Google Drive, confirm that link access is set so anyone with the link can view.
+
+> Tip: Capture the full context! Don’t leave any evidence out that may confuse the HD scam log reviewers!
+
+---
+
+If you have any questions about blurring or uploading, feel free to reach out. We’re here to help!
+
+Have a great day,
+king
+
+(Yes, this is effectively a repost of the old Faye announcement, HD has noticed an uptick in denied logs, so we want to make sure everyone’s on the same page.)
+
+---
+
+Additional Upload Tips (From HD Management, Paraphrased):
+
+Preferred platforms: Imgur, YouTube, Vimeo, Google Drive.
+If any new denial reasons arise, we’ll update you promptly so you can share them with your teams.
+
+Thank you for helping us maintain a smooth, efficient log-review process.
+
+
+Note: If your scam log was denied from HD, then please reupload it using /scam create in the main server and double-checking for errors in your log. Then run /scam delete on the old denied scam. If you logged a scam log incorrectly, please DM an HD Scam Managment member to deny it or tell a SSI at RoDevs to ask them on your behalf. Additionally, too many denied logs may result in a strike. 
+
+
+How to log a ticket, demonstration: https://www.youtube.com/watch?v=jg7ti1E0GTw 
+Punishments
+Scam Punishments:
+Timewasting, Ghosting, Refusal to refund: Permanent | Appealable once victim is refunded normally. Warning if both sides are in the wrong or just case drop. 
+If the scammer refunds then you can issue either a warning or nothing. 
+Stolen assets, free models in post, fake reviews and basically plagiarizing in the marketplace: 70-90 days temp ban. The second offense is a perm ban.
+
+If the developer doesn’t complete work in a commission but no payment was sent here is the scaling, remember this is discretionary: 
+1-2 Days: Warning
+3-7 Days: 5-7d Ban
+7-14 Days: 14-21d Ban
+14-30 Days: 3-6 month Ban
+30 Days+: Perm
+
+
+Note: I sometimes give unappealable bans if they used racial slurs in the ticket or have lots of past infractions like above 4 for marketplace bans, 2 prior for scam bans. 
+
+Reporting & Escalation
+
+Mistakes, Strikes, & Discipline
+Mistakes
+Repeated actions of leaving a ticket inactive or not logging a ticket for a long duration. | Lasts 30 days,
+Making grammatical errors in tickets. | Lasts 30 days,
+Not attending Scam Investigation meetings without a valid reason. | Lasts until the next meeting.,
+Missing quota | Lasts 14 days,
+Repeated denied logs from HD | Lasts 30 days
+
+Strikes
+Receiving too many mistakes. | Retraining | Lasts 30 days,
+Not engaging with the department, overall Inactivity, barely meeting the quota. | Lasts 30 days,
+Negative behavior/toxicity towards other SIs and staff members. | Lasts 30 days,
+Abusing the Inactivity System. | Lasts 30 days,
+Talking negatively about any department after being warned. | Lasts 30 days,
+Small amounts of bias in Tickets or Appeals. | Lasts 60 days,
+Missing quota twice in a row or missing quota every other week/abusing quota. | Lasts 28 days,
+Banning an individual in error and failing to acknowledge or rectify the error, or repeating such errors. | Lasts 30 days.
+
+Demotion
+Receiving too many strikes(3 generally),
+Leaking staff information.,
+Taking a bribe/incentive.,
+Being biased in Tickets or Appeals.
+
+Resources & Formats
+Resources:
+RoDevs Commission Guide - commission guide
+HD Scam Logs - background checking
+RIA Scam Logs - background checking
+VirusTotal - link/file scanner
+Redirect Checker - redirect checker
+AI Video Summarizer - summarizes videos, can be utilized for reading DMs but needs context and has major flaws
+Gemini AI Video Summarizer - does a much better job at summarizing videos and a massive context window. 
+ChatGPT - can be used for summarizing purchase threads and tickets for further understanding
+PayPal Refunds - how to get paypal refunds, useful for directing users on self-refunding. Also good for grammar correction. 
+Grammarly - grammar correction
+MalwareBytes - malware checker
+EzGif Reverse Video - if they send a video that’s bottom to top, you can reverse it. 
+EzGif Video Slower - in case you ever need to slow down a video. 
+Roblox Billing and Refunds - how to get roblox refunds and useful for directing users.
+How to get a refund - how to get roblox refunds and useful for directing users.
+Our Scam Prevention - scam prevention
+Leaked Games YouTube Channel - leaked games
+Leaked Games YouTube Channel- leaked games
+Leaked Games YouTube Channel- leaked games
+Discord Multi-Factor Authentication  - 2FA and security
+Roblox 2FA - 2FA and security
+Yandex - detecting plagiarized/stolen work by reverse searching
+TinEye - detecting plagiarized/stolen work by reverse searching
+Google Image Reverse Search - detecting plagiarized/stolen work by reverse searching
+AI Image Detector - detecting AI-generated images, useful for detecting AI in UI commissions 
+Rolimons - background checks
+Common Scam Portfolio - common scam portfolio, ban straight up
+Common Scam Portfolio - common scam portfolio, ban straight up
+Common Scam Portfolio - common scam portfolio, ban straight up
+Common Scam Portfolio - common scam portfolio, ban straight up
+What is good topology - detecting AI work and learning about topology
+Topology - detecting AI work
+Topology - detecting AI work
+Topology - detecting AI work
+CnvMP3 - downloading youtube videos, please do not redistribute as this purely for staff reasons like evidence blurring, safekeeping and logging.
+cobalt - all around downloader except youtube
+Streamble downloader - downloading streamable videos, please do not redistribute as this purely for staff reasons like evidence blurring, safekeeping and logging.
+
+
+Introducing yourself in a ticket: Hey there, I'm [NAME], a Scam Investigator at RoDevs. Thank you for your patience!
+
+**Please provide the following:** 
+> - The ID of the accused ([Enable Developer Mode for this](https://www.youtube.com/watch?v=pbm-GOK50Tw))
+> - A full-screen video of you scrolling through the scammer's DMS slowly from top to bottom. 
+> - Any additional information/context you'd like to add.
+
+- You have **24 hours** to respond until this ticket is deleted. :alarm_clock:
+
+example filled out: Hey there, I'm king, a Scam Investigator at RoDevs. Thank you for your patience!
+
+**Please provide the following:** 
+> - A full-screen video of you scrolling through the scammer's DMS slowly from top to bottom. 
+> - Any additional information/context you'd like to add.
+
+- You have **24 hours** to respond until this ticket is deleted. :alarm_clock:
+
+Accusing the scammer: :warning: __**YOU'VE BEEN ACCUSED OF [CASE]**__ :warning: 
+> - Victim: `<@UserId>` | User ID
+> - Case: [Scamming, Free Models, Plagiarizing]
+> - Reason: [What did the scammer do that broke the rules in-depth?]
+> - This violates Scam Rule: [What rule does this violate in scam-prevention]?
+
+- **Failure to respond to the accusations within the next 12 hours will result in severe punishment!** :alarm_clock: 
+
+
+example filled out: :warning: __**YOU'VE BEEN ACCUSED OF TIMEWASTING**__ :warning: 
+> - Victim: <@1128028688982745269> | 1128028688982745269
+> - Case: Time-wasting
+> - Reason: You were commissioned to create 3 fantasy castles similar to the ones in Elsa and were given many references to support you but you failed to complete work,
+> - This violates Scam Rule: #1.2.
+
+- **Failure to respond to the accusations within the next 12 hours will result in severe punishment!** :alarm_clock: 
+
+More resources: https://discord.com/channels/995650336679276556/1084113989547589762
+
+
+
+
+
+
+Frequently Asked Questions (FAQ)
+We don’t log warnings into HD.
+We don’t log Marketplace Bans into HD. 
+Impersonations-related tickets are to be transferred to the moderation department.
+You are not allowed to leak details about our department. 
+Use ‘$$’ at the start of your message to chat with staff only. 
+Please record your tickets if the transcript didn’t save and put it in an Unlisted video on your Youtube Channel. 
+If Roblox Transactions evidence is provided in web, please request a page reload as part of the video. 
+If you’re confused on how to handle an edge case, look at precedent by searching key terms in the staff server and main server. 
+If your scam case revolves around a misunderstanding, take the well-known definition and apply it to the scam case. 
+For deleting a ban appeal once logged, you would hit the ‘Delete Ticket’ button at the top, then when it prompts you, click Delete again. 
+You need to reach 60 tickets, show professionalism, hard work and help out the department to reach SSI. 
+Scam Logs from external databases(RIA, HD, etc) do not affect punishment.
+If the accused scammer isn’t in the server and the evidence is sufficient, you can punish them outright.
+If the victim leaves the server and you can’t get into contact with them, then drop the scam investigation; same goes if the victim becomes unresponsive in a scam investigation after several reminders.
+It’s not too hard to get resolutions in scam investigations, normally you’d want to confirm the accused scammer’s thoughts and appease them whilst showing that you’re trying to help them. You’d want to do the same for the victim in a professional way. This works when you’re dealing with a scammer who doesn’t have a reputation really well, also works for scammers with a reputation.
+If someone reports someone else on their behalf, we do not take the report unless the victim explicitly gave them permission to do so. 
+ You cannot handle scam investigations aimed against you or appeals directly linked to your decision. 
+ If video evidence of the DMs is provided in web, then request a page reload as well to prevent forgery.
+
+Handbook Summary
+
+This tab serves as a summary, a practical reference for Scam Investigators and Seniors to quickly understand and maintain their responsibilities, core procedures and the most important rules when handling a scam cases in our community. Refer to the main pages for in depth, detailed information.
+
+
+
+
+
+
+
+
+
+Roles and responsibilities:
+1. Trial Scam Investigator (TSI): Training role to learn procedures and develop investigative skills.
+
+
+2. Scam Investigator (SI): Handles most scam cases and appeals; sets standards of professionalism.
+
+
+3. Senior Scam Investigator (SSI): Second-highest rank; manages TSIs, handles complex cases, and aids leadership decisions.
+
+
+4. Head Scam Investigator (HSI): Leads the entire department, manages disciplinary actions, reports to Head Admin and Server Manager.
+
+Chain of command: 
+➡️ Trial Scam Investigator (TSI)
+ ➡️ Scam Investigator (SI)
+ ➡️ Senior Scam Investigator (SSI)
+ ➡️ Head Scam Investigator (HSI)
+ ➡️ Head Admin / Server Manager (If needed)
+
+Explaining tickets/cases:
+Ticket cap: Max 5 tickets at a time to ensure quality. Ask SSI for permission to handle more.
+
+TSI must ask for permission before handing tickets.
+Prefix $$ to messages for private staff communication in tickets.
+Regions: 
+US – United States
+
+
+JP – Japan
+
+
+IN – India
+
+
+EU – Europe
+
+
+ZA – South Africa
+
+
+BR – Brazil
+
+Ticket management tools:
+Claim Ticket – claim as your own.
+
+
+Convert Ticket – transfer to correct department.
+
+
+Delete Ticket – permanently delete (use with caution).
+
+
+Add Other User – add accused or others to ticket.
+
+
+Call Department Head – alert HSI if needed.
+
+
+Remove Other User – remove someone added earlier.
+Evidence:
+Must be video-based for investigations.
+
+
+Images on Imgur can support HD logs but can’t be sole proof.
+
+
+Streamable links not accepted for HD logs (due to deletion risk).
+Types of cases
+Agreement Scams: e.g. failure to pay, incomplete work, changing deals, ghosting, subpar work, removal from payouts, selling leaked or AI assets.
+
+
+Non-Agreement Scams: e.g. phishing links, using stolen/AI work, fake giveaways, impersonation.
+
+
+Investigation Basics:
+Always remain professional and neutral. Double-check ticket and evidence for full understanding.
+
+
+Evidence must be video-based, unedited, showing usernames, IDs, and timestamps.
+
+
+Gather: Discord ID, original agreement evidence, payment transfer records, changes of the deal, server posts, completed work, alleged scam evidence, and video of DMs between scammer and victim.
+
+
+Use /background-check, /staff alts, /mod logs, and tools like Rolimons, VirusTotal, AI detectors.
+
+Drop a scam if the victim doesn't provide evidence, obtain video of entire DMs, verify original deal and context, and request additional information gathering for context.
+
+Investigation Tactics and Process:
+Start by introducing yourself (a template for introduction is in #resources) and communicating with the victim to understand their desired resolution type:
+Lenient (open to all compromises)
+
+
+Moderate (open to compromise up to a point)
+
+
+Hardline (no compromise on payment).
+This may achieved throughout the investigation, when the accused explains their side. After you ensure you have all required proof, it is suggested you move on to the next step first:
+When communicating with the accused scammer:
+Add them to the ticket and give a 12–24 hour deadline to respond.
+If their story or claims don’t add up, ask for video evidence supporting their side.
+No explanation usually leads to punishment.
+If you believe that the accused is in the wrong, make sure to ask the victim for a compromise before issuing any punishment. We try to find solutions and compromises first. For instance, the most common resolutions:
+A compensation amount in which the victim agrees to (Assuming that the victim, who employed the accused but was scammed) rather than the full agreed upon price.
+The victim and the accused agreeing to go back to working together and finish the product before receiving final payment
+
+You have the right to punish if neither the victim nor the accused are prepared to make concessions.
+→ When logging, include: An in-depth summary: key arguments, defenses, debunks, decision, and reasoning.
+Key Ticket handling points:
+✅ State purpose of adding accused to ticket.
+✅ Ensure full video proof of agreements.
+✅ Run /background-check for history.
+✅ Some punishments (e.g. marketplace bans) don’t require pressing “guilty”; check /mod logs user.
+✅ Press “guilty” only for scams logged to HD.
+✅ Confirm evidence is clear and complete.
+✅ Request additional proof if anything is missing.
+✅ Save direct links by uploading them to youtube or imgur for HD logging.
+✅ Use /staff alts to check for alternate accounts.
+
+Logging tickets to HD:
+When pressing “guilty”, scams are immediately logged to HD and are waiting for review.
+Rename videos to Scam Log [TICKET NUMBER].
+
+
+Evidence must not include PII (Personal Info, such as PayPal, Gmail, names) or be unclear/blurry. The main guide mentions reasons for why your ticket may get denied when logged to HD.
+
+
+Use reliable platforms (YouTube, Imgur, Google Drive) and blur sensitive data.
+
+Punishments:
+Stolen assets, free models in post, fake reviews and basically plagiarizing in the marketplace: 70-90 days temp ban. The second offense is a perm ban.
+Scam bans: Permanent for scamming, ghosting, refusal to refund.
+
+
+→ Developers not completing work without payment face bans scaling with days overdue:
+1-2 Days: Warning
+3-7 Days: 5-7d Ban
+7-14 Days: 14-21d Ban
+14-30 Days: 3-6 month Ban
+30 Days+: Perm
+
+Strikes:
+Strikes are given for repeated mistakes or more severe issues and usually last 30 days unless stated:
+Getting too many mistakes → Retraining required (30 days)
+
+
+Inactivity or barely meeting quota
+
+
+Negative behavior or toxicity towards staff
+
+
+Abusing the inactivity system
+
+
+Talking negatively about any department after a warning
+
+
+Showing small bias in tickets/appeals (60 days)
+
+
+Missing quota twice in a row or abusing quota (28 days)
+
+
+Banning someone by error and not fixing it
+Demotion (Major consequences)
+Leads to removal from role:
+Receiving 3 strikes generally
+
+
+Leaking staff information
+
+
+Accepting bribes/incentives
+
+
+Showing bias in tickets or appeals
+
+Final Reminders
+✔ Be professional, neutral, and thorough.
+✔ Build trust with both parties.
+✔ Ask questions to uncover the full context.
+✔ Always check and verify evidence validity.
+✔ Maintain confidentiality of all handbook information.
+
+The HSI of the scam investigation department is MackDaddyRon
+
+The Head scam Investigator of the department is MackDaddyRon
+
+
+The Seniors at this time are the following: King, Insane, and Yume
+
+Scam Investigator Quota
+8 Tickets (4 Bi Weekly)
+1 Appeal (bi Weekly)
+
+How to handle a ban appeal?
+
+
+First of all, you have to greet to the alleged scammer/user that has been previously banned for reasons regarding scam investigation.
+
+Use the format below as a greeting
+
+“Hey There, I’m [Name], a Scam Investigator at RoDevs. I will now handle your ban appeal. Meanwhile, please wait for me as I check the evidence related to your scam cas.e”
+
+After you send the greeting, you will need to use /background check (User ID) and check their history of scam logs. And you will also need to run /modlogs (User ID) to check for their bans, mutes, warns and more.
+
+You will also need to check for their alternative accounts and you will have to do that by using /staff alts (User ID). If they have alternative accounts, then you will also need to check their history by using background check and modlogs.
+
+If they have more than 2 serious infractions (e.g, Scamming, Time Wasting) then their ban becomes unappealable due to their history.
+
+Now you need to find out the victim’s User ID by using /scam checkout (Scam Log ID) You can get a scam log id by using background check on the scammer’s user id.
+
+If they have scammed a user of their funds, then you will need to tell them that you are unable to unban them until they refund the victim.
+
+
+
+
+
+
+
+
+Final Verdict
+
+After you’re done with the appeal you will need to come to a conclusion, will you unban the scammer in the ticket or will you keep them banned?
+
+If they have refunded the victim in DMs or the victim no longer wishes to let the scammer be banned anymore then you may unban them as long as they don’t have more than 2 serious infractions, as mentioned above. 
+
+Once you come to a final verdict, you will need to notify the scammer in the ticket of your decision
+
+
+Logging a ban appeal
+
+After you have informed the scammer of your conclusion regarding their appeal, you will now need to log the ticket. You have to do so by scrolling up to the start of the appeal, you will find a red button which says “Delete Ticket.”
+
+You have to press the button, and after that, the logging process will start. You need to have the following during this process:
+
+Original Scam Log ID
+Action Taken
+Description
+
+After the last process, you will now need to choose to remove the scammer from the public scam logs or not, if you have unbanned them then you have to click the red button, else you will need to click the blue button. Once you’re done, you will need to scroll to the start and then delete the ticket, but click the red button.
+
+
+Special Ban Appeals
+
+Sometimes you may stumble upon tickets in which the victim no longer exists or had their account deleted or they are unable to respond to the scammer if the scammer is eager to refund the victim.
+
+In this case, you should issue an unban if the ban is old or the evidence is invalid, and the commission price was equivalent to below 15 USD or 4,500 R$
+
+If the scammer is not apologetic, then they will not be unbanned even if the victim does not exist anymore
+
+If you encounter an issue with logging
+
+If you go into the main server, you can run the /scam create command, and if you press ‘appeal a scam log,‘ it’ll ask you for the case ID and the user’s ID. Once you enter all the information, it’ll send the log to the ticket-logs channel. If you’ve followed all these steps correctly, you’ve handled your first Ban Appeal! 
+You can now go into the ticket and scroll up. Once you’re up, press ‘delete‘ once you do, it’ll delete the ticket in one hour if it doesn’t, let your @Head Scam Investigator know! 
+
+
+Additional Information
+
+If the scammer in the ticket curses at you or makes you angry, avoid being unprofessional. Always be professional in tickets. If you do the opposite, then you will be disciplined accordingly.
+
+You shouldn’t do too many ban appeals at the same time, or else you might get burnt out.
+
+
+
+
+
+Scam Investigation Department History
+All the SI Department Heads in order:
+1 Mazin 
+2 Phoenix/Scaled
+3 Yankue 
+4 Essence
+5 Codez
+6 Lmbo/itzturciozz
+7 PrimaryProfit
+8 ClonedPart
+9 Freddie
+10 Candy
+11 Code/code2.0 
+12 Knowiel/knowiel. 
+13 MackDaddyRon
+
+Mazin is the first ever recored Head Scam investigator of the department.
+Phoenix is the second ever HSI recorded
+Yankue is the 3rd HSI recorded
+Essence is the 4th HSI recorded
+Codez is the 5th HSi recorded not to me mixed up with Code/Code2.0
+Lmbo/itzturciozz is the 6th HSI recorded
+PrimaryProfit is the 7th HSI recored
+ClonedPart is the 8th HSI recored
+Freddie is the 9th HSI recored
+Candy is the 10th HSI recored
+Code/code2.0 is the 11th HSI recored
+Knowiel/knowiel. is the 12th HSI recored
+MackDaddyRon is the 13th HSI recored and is the person who created the ScamGuard Bot.
+
+MackDaddyRon is the 13th HSI in the department 
