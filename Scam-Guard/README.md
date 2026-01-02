@@ -1,1 +1,1 @@
-ts is a bot for the SI department
+This is a bot made by Deron Bethel for the Rodevs Scam Investigation Department. 
